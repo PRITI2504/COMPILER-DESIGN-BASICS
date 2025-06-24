@@ -24,3 +24,7 @@ This task enhances a student's ability to work with file I/O, strings, loops, an
 
 OUTPUT image of task 3 is:
 
+![Image](https://github.com/user-attachments/assets/13763e3e-6717-4a29-af6c-b8b20215935f)
+
+
+
